@@ -7,9 +7,10 @@
 
 
 
-이 프로젝트의 기여자는 모두 만 18세 이상입니다.
+[이 프로젝트](https://github.com/gacharoom/gacharoom.github.io)의 기여자는 모두 만 18세 이상입니다.
 
-</br>
+
+
 
 
 ## 얘는! 깃헙붕이들은 코드립 몰라!
