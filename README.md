@@ -10,8 +10,9 @@
 [이 프로젝트](https://github.com/gacharoom/gacharoom.github.io)의 기여자는 모두 만 18세 이상입니다.
 
 
+## [가챠방 모에화 연구중](http://gacharoom.github.io/stablediff)
 
-
+Special Thanks to Hyee-oak onesan
 
 ## 얘는! 깃헙붕이들은 코드립 몰라!
 
